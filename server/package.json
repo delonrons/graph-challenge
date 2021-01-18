@@ -1,0 +1,18 @@
+{
+  "name": "db-graph-server",
+  "version": "1.0.0",
+  "description": "The graphql server for frontend coding challenge",
+  "main": "index.js",
+  "author": "Delon Rons Thambi",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "apollo-server": "^2.19.2",
+    "axios": "^0.21.1",
+    "graphql": "^15.4.0",
+    "json-server": "^0.16.3"
+  }
+}
