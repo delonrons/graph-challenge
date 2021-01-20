@@ -21,3 +21,10 @@ and a ```json-server``` for mocking the rest api.
 The graphql server runs on port 4000, and the mock server runs on port 3000.
 
 *NOTE: Some times while killing( `` ctrl + c ``), the json-server process takes some time.*
+
+
+### Testing
+
+Mock ids available : 1, 5555, 77777, 9999999999
+
+The graphql server is accessible at https://db-graph-server.herokuapp.com/
